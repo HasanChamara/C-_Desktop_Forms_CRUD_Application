@@ -1,0 +1,14 @@
+E:\C# Projects\CRUD_Application\bin\Debug\CRUD_Application.exe.config
+E:\C# Projects\CRUD_Application\bin\Debug\CRUD_Application.exe
+E:\C# Projects\CRUD_Application\bin\Debug\CRUD_Application.pdb
+E:\C# Projects\CRUD_Application\bin\Debug\Newtonsoft.Json.dll
+E:\C# Projects\CRUD_Application\bin\Debug\Newtonsoft.Json.xml
+E:\C# Projects\CRUD_Application\obj\Debug\CRUD_Application.csproj.AssemblyReference.cache
+E:\C# Projects\CRUD_Application\obj\Debug\CRUD_Application.Form1.resources
+E:\C# Projects\CRUD_Application\obj\Debug\CRUD_Application.Properties.Resources.resources
+E:\C# Projects\CRUD_Application\obj\Debug\CRUD_Application.csproj.GenerateResource.cache
+E:\C# Projects\CRUD_Application\obj\Debug\CRUD_Application.csproj.CoreCompileInputs.cache
+E:\C# Projects\CRUD_Application\obj\Debug\CRUD_App.4AE2CF4F.Up2Date
+E:\C# Projects\CRUD_Application\obj\Debug\CRUD_Application.exe
+E:\C# Projects\CRUD_Application\obj\Debug\CRUD_Application.pdb
+E:\C# Projects\CRUD_Application\obj\Debug\CRUD_Application.ItemView.resources
