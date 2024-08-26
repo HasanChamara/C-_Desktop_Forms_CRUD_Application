@@ -21,6 +21,7 @@ namespace CRUD_Application
 
         private async void buttonInsert_Click(object sender, EventArgs e)  
         {
+            // Variables for name and price
             string name = textBoxName.Text;
             string price = textBoxPrice.Text;
 
